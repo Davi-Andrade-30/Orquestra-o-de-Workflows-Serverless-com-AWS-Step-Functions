@@ -22,8 +22,6 @@ O Step Functions coordena uma máquina de estados (*State Machine*) que gerencia
 
 ### 🗺️ Visualização Lógica do Fluxo de Estados
 
-### 🗺️ Visualização Lógica do Fluxo de Estados
-
 graph TD
     Start([Início do Workflow]) --> S3{⭐ Verificar Arquivo S3}
     
